@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timpoi-py
-- 👀 I’m interested in Data Science and Analytics, Machine learning, and Software Engineering
+- 👀 I’m interested in Data Engineering,  Data Science and Analytics, Machine learning, and Software Engineering
 - 🌱 I’m currently learning Web Development and Data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
