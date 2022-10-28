@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timpoi-py
-- 👀 I’m interested in Data Engineering,  Data Science and Analytics, Machine learning, and Software Engineering
-- 🌱 I’m currently learning Web Development and Data analytics
+- 👀 I’m interested in Web Development. 
+- 🌱 I’m currently learning Express JS and MongoDB.
 
 
 <!---
