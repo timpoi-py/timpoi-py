@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timpoi-py
 - 👀 I’m interested in Web Development. 
-- 🌱 I’m currently learning Express JS and MongoDB.
+- 🌱 I’m currently studying Express JS and MongoDB.
 
 
 <!---
